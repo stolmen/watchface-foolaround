@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "stolmen",
+    "longName": "my_first_watchface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "my_first_watchface",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "7c13d590-a76e-432e-b132-95c0573b9ec2",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
